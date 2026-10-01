@@ -1,0 +1,11 @@
+{
+  "name": "dsa-study-repo",
+  "version": "1.0.0",
+  "description": "Personal DSA study repository — one JavaScript solution file per problem, organized by pattern.",
+  "main": "run-all.js",
+  "scripts": {
+    "solve": "node",
+    "run-all": "node run-all.js"
+  },
+  "license": "MIT"
+}
